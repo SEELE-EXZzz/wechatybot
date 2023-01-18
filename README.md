@@ -26,7 +26,7 @@ const api = new ChatGPTAPIBrowser({
 ```
 将email和password的属性值换成openAI的邮箱和密码，然后在对应目录下的cmd输入node index.js。
 后面的人机检验需要手动，其他自动  
-找到wechaty-puppet-padlocal-demo目录，然后在对应目录下的cmd输入npm run demo，这时有会二维码，
+找到wechatydemo目录，然后在对应目录下的cmd输入npm run demo，这时有会二维码，
 建议用小号扫码，因为听说这个有封号的风险。
 ### 关于功能
 charGPT这个很容易寄，如果想关就找到以下代码将true改为false就行
